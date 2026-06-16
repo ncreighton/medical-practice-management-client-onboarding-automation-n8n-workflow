@@ -1,2 +1,28 @@
-# medical-practice-management-client-onboarding-automation-n8n-workflow
-Welcome emails, document collection, task assignment, and progress tracking on autopilot. Consistent onboarding without manual oversight.
+# Medical Practice Management Client Onboarding Automation N8N Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/aFa6oH3aLe2M6xy33md0b3p)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/aFa6oH3aLe2M6xy33md0b3p)
+
